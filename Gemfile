@@ -40,3 +40,6 @@ gem 'spring',        group: :development
 
 #Authentification
 gem 'devise'
+
+#Authorization
+gem 'cancancan', '~> 1.10'
